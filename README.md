@@ -1,2 +1,3 @@
-# Transit-Gateway-AWS
-Setting up TGW connection between multiple servers located in different regions. 
+# Transit-Gateway
+Transit gateway is a network hub that allows you to connect to multiple VPCs, on-prem networks, and other AWS services through a single gateway.
+
