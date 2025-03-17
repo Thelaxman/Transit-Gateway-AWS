@@ -1,7 +1,7 @@
 # Transit-Gateway
 Transit gateway is a network hub that allows you to connect to multiple VPCs, on-prem networks, and other AWS services through a single gateway.
 
-##Prerequisites
+## Prerequisites
 -IAM role with access to EC2 instances and netwroks.
 -VPCs
 -EC2 instances
