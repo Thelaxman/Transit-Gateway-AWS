@@ -1,5 +1,5 @@
 # Creating and configuring the VPC
-VPC(virtual private cloud) is a logically isolated network that allows you to launch EC2 instances in a public or private subnets.
+VPC(Virtual Private Cloud) is a logically isolated network that allows you to launch EC2 instances in a public or private subnets.
 
 
 ## Create multiple VPC in different regions and name them accordingly. On AWS, choose VPC and more option to select the subnets as well.
