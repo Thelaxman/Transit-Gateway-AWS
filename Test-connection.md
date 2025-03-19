@@ -8,10 +8,7 @@ This script automates the process of switching to the root user, updating the sy
 #!/bin/bash
 
 # Switch to root user
-if [ "$EUID" -ne 0 ]; then
-  echo "Switching to root user..."
-  sudo su
-fi
+sudo su -
 
 # Update package list and upgrade packages
 echo "Updating package list and upgrading packages..."
