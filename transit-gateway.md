@@ -40,4 +40,3 @@ A Transit Gateway is a network transit hub that you can use to interconnect your
 - Update the static routes to include the Transit Gateway peering attachment as the target.
 - Verify that routes are properly configured to allow inter-region communication.
 
-Your Transit Gateway configuration is now complete. You have successfully interconnected your VPCs across multiple regions using Transit Gateway and Transit Gateway peering.
