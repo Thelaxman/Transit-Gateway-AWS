@@ -6,7 +6,7 @@ VPC peering has a major drawback that is creating one to one peering connection 
 
 
 ## Prerequisites
-- IAM role with access to EC2 instances and netwroks.
+- IAM role with access to EC2 instances and networks.
 - VPCs
 - EC2 instances
 - TGW Protocol
